@@ -153,7 +153,7 @@ npm install -g @angular/cli
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/task-flow-manager.git
+git clone https://github.com/giblecdg/task-flow-manager.git
 cd task-flow-manager
 npm install
 ```
@@ -231,15 +231,5 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for the full guidelines *(placeholder �
 ## 📄 License
 
 Distributed under the **MIT License**. See [`LICENSE`](./LICENSE) for more information.
-
-## 👤 Author
-
-<!--
-TODO: Replace the placeholders below with your real details before publishing.
--->
-
-- **Your Name** — *Initial work*
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/your-handle/)
 
 If this project helped you, consider giving it a ⭐ on GitHub — it makes a real difference!
