@@ -48,16 +48,6 @@ Everything lives in the browser. Tasks and user preferences (including the dark 
 - 📱 **Responsive layout** — stacked on mobile, three columns on desktop.
 - ♻️ **Reusable confirm dialog** for destructive actions.
 
-## 🖼️ Screenshots
-
-> Screenshots should be added after first run. Place PNGs in a `docs/` folder at the repo root.
-
-![Board view](./docs/board.png)
-
-![Statistics view](./docs/stats.png)
-
-![Dark mode](./docs/dark.png)
-
 ## 🛠️ Tech Stack
 
 | Technology              | Purpose                                                     | Version |
